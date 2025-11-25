@@ -2,7 +2,7 @@
   // 🔑 Configuração Básica e Identificação
   "name": "Estudo BungaTech Jogo",
   "short_name": "BungaTechJogo",
-  "description": "Desafio de Quiz BungaTech para testar o Q.I.",
+  "description": "Desafio de Quiz BungaTech para testar o Q.I. com perguntas de informática, Química, física, Biologia, para te ajudar a testar o seu cornficiente emocional",
   
   // 🛑 CORRIGIDO: Removida a barra inicial (/) para usar caminho relativo
   "start_url": "index.html", 
