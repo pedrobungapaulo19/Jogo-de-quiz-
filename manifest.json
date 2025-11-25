@@ -1,0 +1,31 @@
+{
+  // 🔑 Configuração Básica e Identificação
+  "name": "Estudo BungaTech Jogo",
+  "short_name": "BungaTechJogo",
+  "description": "Desafio de Quiz BungaTech para testar o Q.I.",
+  
+  // 🛑 CORRIGIDO: Removida a barra inicial (/) para usar caminho relativo
+  "start_url": "index.html", 
+  
+  "display": "standalone", 
+  "background_color": "#1a1a1a", 
+  "theme_color": "#00bcd4", 
+
+  // 🔑 Ícones do Aplicativo
+  "icons": [
+    {
+      // 🛑 CORRIGIDO: Removida a barra inicial (/)
+      "src": "logo-732.png", 
+      // 🛑 CORRIGIDO: Usar tamanho quadrado padrão e nome correspondente
+      "sizes": "637x732", 
+      "type": "image/png"
+    },
+    {
+      // 🛑 CORRIGIDO: Removida a barra inicial (/)
+      "src": "logo-512.png",
+      // 🛑 CORRIGIDO: Usar tamanho quadrado padrão
+      "sizes": "607x701",
+      "type": "image/png"
+    }
+  ]
+}
