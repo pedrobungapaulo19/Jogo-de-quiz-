@@ -21,8 +21,8 @@ const urlsToCache = [
   'lixo.png',
   'sonligado.png',    // 💡 Corrigido para ser consistente (Se o arquivo for 'son.png', mude aqui)
   'sondesligado.png',
-  'logo-732.png',
-  'logo-701.png',
+  'logo-192.png',
+  'logo-512.png',
   'admin-foto.jpg' 
 ];
 
